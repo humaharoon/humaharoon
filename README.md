@@ -10,12 +10,12 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
-* 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
-* 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
-* 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
+* 🔭 I’m currently working on **python basics, programing fundamental, basic AI concepts, problem solving practice**
+* 👯 I’m looking to collaborate on **Open to collaberate on begginner-level python ana AI learning projects**
+* 🤝 I’m looking for help with **learning python and AI fundamental**
+* 🌱 I’m currently learning **python basics, AI fundamental, logic building, simple program and practice**
 * 💬 Ask me about **Programming, Python, or AI technology**
-* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
+* ⚡ Fun fact **I am exploring AI one small project ata a time**
 
 ---
 
@@ -23,7 +23,7 @@
 <div align="center">
   
   </a>
-  <a href="https://linkedin.com/in/humaharoon" target="_blank">
+  <a href="https://linkedin.com/in/Huma Haroon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/chatgpt" target="_blank">
