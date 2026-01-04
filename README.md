@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
+  <h3> 💻 I am a beginner AI student, learning Python and AI fundamentals. I enjoy solving coding problems and exploring new programming concepts. </h3>
 </div>
 
 ---
@@ -21,10 +21,9 @@
 
 ### 🌐 Connect with Me:
 <div align="center">
-  <a href="https://facebook.com/chatgpt" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+  
   </a>
-  <a href="https://linkedin.com/in/chatgpt" target="_blank">
+  <a href="https://linkedin.com/in/humaharoon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/chatgpt" target="_blank">
