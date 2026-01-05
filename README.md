@@ -11,12 +11,6 @@
 
 </div>
 
-
-
-
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&fontColor=ffffff&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
 
