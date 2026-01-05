@@ -2,7 +2,7 @@
 <div align="center">
   <!-- Welcome Text with custom font and color -->
   <h2 style="font-family: 'Courier New', Courier, monospace; color: #FF69B4;">
-    Welcome to my GitHub Account 👋
+    "Building AI projects, learning daily"
   </h2>
 
   <!-- Animated Robot GIF -->
@@ -13,7 +13,6 @@
 
 
 <div align="center">
-
 
 
 
