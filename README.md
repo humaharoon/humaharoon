@@ -32,10 +32,6 @@
 
 
 
- 
-
-
-
 * 🔭 I’m currently working on **python basics, programing fundamental, basic AI concepts, problem solving practice**
 * 👯 I’m looking to collaborate on **Open to collaberate on begginner-level python ana AI learning projects**
 * 🤝 I’m looking for help with **learning python and AI fundamental**
@@ -49,7 +45,7 @@
 <div align="center">
   
   </a>
-  <a href="https://linkedin.com/in/Huma Haroon" target="_blank">
+  <a href="https://linkedin.com/in/Humaharoon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/Humaharoon10" target="_blank">
@@ -60,7 +56,7 @@
   </a>
 </div>
 
----
+
 
 ### 💻 Tech Stack:
 <p align="center">
