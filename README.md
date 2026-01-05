@@ -1,6 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Huma&fontSize=70&animation=fadeIn" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<h1>Hi, I'm Huma 👋</h1>
+
+<h3>🤖 Aspiring AI Learner | Tech Explorer</h3>
+
+<p>
+
+
 </div>
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&fontColor=ffffff&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
+
 
 <div align="center">
   <h3> 💻 I am a beginner AI student, learning Python and AI fundamentals. I enjoy solving coding problems and exploring new programming concepts. </h3>
