@@ -1,3 +1,9 @@
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9087,100:267a43&fontColor=llllll&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
+
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF007center=true&vCenter=true&width=500&lines=Hi+👋+I+am+Huma" />
 
@@ -16,10 +22,6 @@
 <h3>🤖 Aspiring AI Learner | Tech Explorer</h3>
 
 <p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9087,100:267a43&fontColor=llllll&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
 
 
 <div align="center">
