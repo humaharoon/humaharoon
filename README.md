@@ -1,4 +1,7 @@
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF007center=true&vCenter=true&width=500&lines=Hi+👋+I+am+Huma" />
 
+</div>
 <div align="center">
   <!-- Welcome Text with custom font and color -->
   <h2 style="font-family: 'Courier New', Courier, monospace; color: #FF69B4;">
@@ -8,37 +11,34 @@
   <!-- Animated Robot GIF -->
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150" />
 </div>
-
-
-
-
 <div align="center">
-
-
-
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-<h1>Hi, I'm Huma 👋</h1>
-
 <h3>🤖 Aspiring AI Learner | Tech Explorer</h3>
 
 <p>
-
-
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&fontColor=ffffff&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9087,100:267a43&fontColor=llllll&height=200&section=header&text=Huma%20Haroon&fontSize=70" />
 
 
 <div align="center">
   <h3> 💻 I am a beginner AI student, learning Python and AI fundamentals. I enjoy solving coding problems and exploring new programming concepts. </h3>
 </div>
 
----
+---<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
+</div>
+<div align="center">
+  <!-- Welcome Text with custom font and color -->
+  <h2 style="font-family: 'Courier New', Courier, monospace; color: #FF69B4;">
+    "Building AI projects, learning daily"
+  </h2>
+
+ 
+
+
 
 * 🔭 I’m currently working on **python basics, programing fundamental, basic AI concepts, problem solving practice**
 * 👯 I’m looking to collaborate on **Open to collaberate on begginner-level python ana AI learning projects**
@@ -47,7 +47,7 @@
 * 💬 Ask me about **Programming, Python, or AI technology**
 * ⚡ Fun fact **I am exploring AI one small project ata a time**
 
----
+
 
 ### 🌐 Connect with Me:
 <div align="center">
@@ -96,6 +96,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
 </div>
+
+
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chatgpt&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
