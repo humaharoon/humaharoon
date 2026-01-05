@@ -29,12 +29,6 @@
 ---<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 
-</div>
-<div align="center">
-  <!-- Welcome Text with custom font and color -->
-  <h2 style="font-family: 'Courier New', Courier, monospace; color: #FF69B4;">
-    "Building AI projects, learning daily"
-  </h2>
 
  
 
