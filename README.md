@@ -1,4 +1,22 @@
+
 <div align="center">
+  <!-- Welcome Text with custom font and color -->
+  <h2 style="font-family: 'Courier New', Courier, monospace; color: #FF69B4;">
+    Welcome to my GitHub Account 👋
+  </h2>
+
+  <!-- Animated Robot GIF -->
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150" />
+</div>
+
+
+
+
+<div align="center">
+
+
+
+
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -42,7 +60,7 @@
   <a href="https://instagram.com/Humaharoon10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:chatgpt@openai.com">
+  <a href="mailto:humaharoon129@gmail.com@openai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -54,8 +72,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  
 </p>
 
 ---
@@ -74,7 +91,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=small%20steps%20taken%20everyday%20create%20meaningful%20progress.&author=Huma%20Haroon" />
 </div>
 
 <div align="center">
