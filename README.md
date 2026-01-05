@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/Huma Haroon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/chatgpt" target="_blank">
+  <a href="https://instagram.com/Humaharoon10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:chatgpt@openai.com">
